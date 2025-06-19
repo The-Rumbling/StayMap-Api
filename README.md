@@ -1,1 +1,0 @@
-# StayMap-Api
