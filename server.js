@@ -35,6 +35,17 @@ Object.keys(db).forEach((key) => {
     item ? res.json(item) : res.sendStatus(404);
   });
 
+// GET posts by communityId
+app.get('/posts', (req, res) => {
+  const { communityId } = req.query;
+  if (communityId) {
+    const result = db.posts.filter(post => post.communityId == communityId);
+    res.json(result);
+  } else {
+    res.json(db.posts);
+  }
+});
+  
   // POST
   app.post(`/${key}`, (req, res) => {
     const nuevo = req.body;
