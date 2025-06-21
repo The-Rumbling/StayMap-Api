@@ -317,17 +317,13 @@
     },
     {
       "id": 11,
-      "name": "loleros",
+      "name": "Stay",
       "posts": [
         1749829284972,
-        1750049095943,
-        1750205641324,
-        1750212368678,
-        1750212395603,
-        1750214629129
+        1750049095943
       ],
-      "image": "https://images7.memedroid.com/images/UPLOADED537/60ecb59c4760c.jpeg",
-      "description": "",
+      "image": "https://www.infobae.com/new-resizer/yWTP7VdjUokAw7wBfv9t5Y7uzWE=/arc-anglerfish-arc2-prod-infobae/public/AM2DSGR2RFCV7PXDT7GKROUT2A.jpg",
+      "description": "Fans de Stray Kids!",
       "members": [
         2
       ]
@@ -368,11 +364,7 @@
       ],
       "postsDone": [
         1749829284972,
-        1750049095943,
-        1750205641324,
-        1750212368678,
-        1750212395603,
-        1750214629129
+        1750049095943
       ],
       "location": {
         "lat": -12.0520704,
@@ -385,49 +377,17 @@
       "id": 1749829284972,
       "userId": 2,
       "communityId": 11,
-      "content": "busco chica gamer real que sea plata plox :,v",
+      "content": "Su música me cambio la vida",
       "postedAt": "2025-06-13T15:41:24.972Z",
-      "imageUrl": "https://res.cloudinary.com/dngk5bc3p/image/upload/v1749829327/nkpjpjnziacpg9za1bus.jpg"
+      "imageUrl": "https://ih1.redbubble.net/image.3156645356.7242/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg"
     },
     {
       "id": 1750049095943,
       "userId": 2,
       "communityId": 11,
-      "content": "bla bla bla ble ble ble blu blu blu ablubuibububub",
+      "content": "Soy fan desde 2017, busco amigos",
       "postedAt": "2025-06-16T04:44:55.943Z",
-      "imageUrl": "https://res.cloudinary.com/dngk5bc3p/image/upload/v1750049140/zlepbtylnhhk5cpbzuqr.webp"
-    },
-    {
-      "id": 1750205641324,
-      "userId": 2,
-      "communityId": 11,
-      "content": "funciona?",
-      "postedAt": "2025-06-18T00:14:01.324Z",
-      "imageUrl": ""
-    },
-    {
-      "id": 1750212368678,
-      "userId": 2,
-      "communityId": 11,
-      "content": "funciona o nel",
-      "postedAt": "2025-06-18T02:06:08.678Z",
-      "imageUrl": "https://res.cloudinary.com/dngk5bc3p/image/upload/v1750212418/hn3eukkwkjeb0tpfihsk.jpg"
-    },
-    {
-      "id": 1750212395603,
-      "userId": 2,
-      "communityId": 11,
-      "content": "sadasdsadsa",
-      "postedAt": "2025-06-18T02:06:35.603Z",
-      "imageUrl": "https://res.cloudinary.com/dngk5bc3p/image/upload/v1750212446/rgcgsxfv18vphxgjbnlz.webp"
-    },
-    {
-      "id": 1750214629129,
-      "userId": 2,
-      "communityId": 11,
-      "content": "me cago de risa xdxdxd",
-      "postedAt": "2025-06-18T02:43:49.129Z",
-      "imageUrl": "https://res.cloudinary.com/dngk5bc3p/image/upload/v1750214679/kiz9lutozgbw0v8vsi5s.jpg"
+      "imageUrl": "https://media.tenor.com/p9mdSW37R-sAAAAM/pou.gif"
     }
   ]
 }
