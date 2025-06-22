@@ -48,11 +48,17 @@ app.get('/posts', (req, res) => {
   
   // POST
   app.post(`/${key}`, (req, res) => {
-    const nuevo = req.body;
-    nuevo.id = key.slice(0, 2).toUpperCase() + Math.floor(Math.random() * 10000);
-    db[key].push(nuevo);
-    res.status(201).json(nuevo);
-  });
+  const nuevo = req.body;
+
+  let newId;
+  do {
+    newId = Math.floor(Math.random() * 1000000); // 6 dígitos aleatorio
+  } while (db[key].some(item => item.id === newId));
+
+  nuevo.id = newId;
+  db[key].push(nuevo);
+  res.status(201).json(nuevo);
+});
 
   // PUT
   app.put(`/${key}/:id`, (req, res) => {
