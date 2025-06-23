@@ -64,6 +64,7 @@ app.get('/posts', (req, res) => {
   res.status(201).json(nuevo);
 });
 
+  
   // PUT
   app.put(`/${key}/:id`, (req, res) => {
     const index = db[key].findIndex(i => i.id == req.params.id);
